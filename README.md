@@ -2,6 +2,8 @@
 Interview questions for QA engineers.
 
 ## Exercise 1
+Write some test cases (preferably in Gherkin) for the following User story.
+
 #### Example User story: Related to https://cleanroom.glasswall.com/
 #### Title
 Trial mode of cleanroom
@@ -17,7 +19,6 @@ TBD
   - Breaching either limit gives an error screen and flags if one or both have been breached
 - Upgrade link in file drop area takes you to glasswall website
 - Book a demo link link added to left panel to link to glasswall website
-- Write some test cases (preferably in Gherkin) for the following User story.
 
 
 ## Exercise 2
