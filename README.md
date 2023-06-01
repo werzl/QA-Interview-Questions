@@ -1,15 +1,18 @@
 # QA Technical Interview
 Interview questions for QA engineers.
 
-## Exercise 1
-Write some test cases (preferably in Gherkin) for the following User story.
+## About Cleanroom
+Cleanroom is an application gui used to drag and drop files into a drop zone, which then processes your files through the glasswall engine. You can then download the files and see details of what the engine has done to the file afterwards.
 
-#### Example User story: Related to https://cleanroom.glasswall.com/
+## Exercise 1
+Write some test cases for the following User story. 
+
+#### Example User story
 #### Title
 Trial mode of cleanroom
 
 #### Description
-TBD
+A trial mode limitting the amount and size of files that can be dropped into cleanroom. Links to the site also need to be added to allow users/potential client to contact us to purchase cleanroom or our other products
 
 #### Acceptance Criteria
 - Sample files supporting main file types and example archives and folders included that can be dragged into the drop zone
@@ -24,8 +27,10 @@ TBD
 ## Exercise 2
 2nd part - Perform some exploratory testing from the above User story.
 
-Test Charter
+Link to cleanroom: https://cleanroom.glasswall.com/
 
-Explore Glasswall Cleanroom trial mode
-with a variety of files of different sizes and types
+#### Test Charter
+
+Explore Glasswall Cleanroom trial mode  
+With a variety of files of different sizes and types  
 To discover any issues that are introduced outside of the acceptance criteria
