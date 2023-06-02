@@ -12,7 +12,7 @@ Write some test cases for the following User story.
 Trial mode of cleanroom
 
 #### Description
-A trial mode limitting the amount and size of files that can be dropped into cleanroom. Links to the site also need to be added to allow users/potential client to contact us to purchase cleanroom or our other products
+A trial mode limiting the amount and size of files that can be dropped into cleanroom. Links to the site also need to be added to allow users/potential client to contact us to purchase cleanroom or our other products
 
 #### Acceptance Criteria
 - Sample files supporting main file types and example archives and folders included that can be dragged into the drop zone
