@@ -4,7 +4,7 @@ Interview questions for QA engineers.
 ## About Cleanroom
 Cleanroom is an application gui used to drag and drop files into a drop zone, which then processes your files through the glasswall engine. You can then download the files and see details of what the engine has done to the file afterwards.
 
-## Exercise 1
+## Exercise 1 (10-15 Minutes)
 Write some test cases for the following User story. 
 
 #### Example User story
@@ -24,7 +24,7 @@ A trial mode limiting the amount and size of files that can be dropped into clea
 - Book a demo link link added to left panel to link to glasswall website
 
 
-## Exercise 2
+## Exercise 2 (10-15 Minutes)
 2nd part - Perform some exploratory testing from the above User story.
 
 Link to cleanroom: https://cleanroom.glasswall.com/
