@@ -14,6 +14,10 @@ Trial mode of cleanroom
 #### Description
 A trial mode limiting the amount and size of files that can be dropped into cleanroom. Links to the site also need to be added to allow users/potential client to contact us to purchase cleanroom or our other products
 
+#### Example Image
+![image](https://github.com/werzl/QA-Interview-Questions/assets/61416937/74f07cd1-5bd4-4f53-aa37-68be75810fcf)
+
+
 #### Acceptance Criteria
 - Sample files supporting main file types and example archives and folders included that can be dragged into the drop zone
 - Limits:
